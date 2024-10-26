@@ -1,0 +1,28 @@
+/*
+ Theme Name:     Twenty Twenty Three Child
+ Template:       twentytwentythree
+ Version:        1.0
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+.icon {
+    font-size: 20px; 
+    color: #E5E7EB;
+    line-height: 40px;
+    margin-left: 14px;
+    transform: scale(3.1)
+    
+}
+.nav-link:hover {
+  color: #007bff !important; 
+  transition: color 0.3s ease; 
+}
+
+.nav-link.active {
+    color: #ffffff !important; 
+    font-weight: bold;
+ 
+}
